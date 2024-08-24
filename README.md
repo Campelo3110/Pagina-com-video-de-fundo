@@ -34,12 +34,10 @@ Bem-vindo ao repositório da **Página de Início com Vídeo em Tela Cheia**! Es
 
 ## 📷 Demonstração
 
-<img src="/assets/vid/videogif.gif">
+<img src="vid/videogif.gif">
 
+## 🌐 Conecte-se
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [GitHub](https://github.com/seu-usuario)
+- [LinkedIn](https://www.linkedin.com/in/guilherme-campelo)
+- [GitHub](https://github.com/Campelo3110)
 
----
-
-Esse README deve ajudar a atrair a atenção para o seu projeto e fornecer todas as informações essenciais para quem visita seu repositório.
