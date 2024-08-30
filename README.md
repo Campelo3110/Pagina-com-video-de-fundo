@@ -1,6 +1,6 @@
-# 🌟 Página de Início com Vídeo em Tela Cheia
+# 🌟 Página com Vídeo de fundo em Tela Cheio
 
-Bem-vindo ao repositório da **Página de Início com Vídeo em Tela Cheia**! Este projeto é uma landing page moderna e elegante com um vídeo de fundo que ocupa toda a tela. Ideal para apresentar seu portfólio, um produto, ou qualquer conteúdo visual impactante.
+Bem-vindo ao repositório da **Página com Vídeo de fundo em Tela Cheio**! Este projeto é uma landing page moderna e elegante com um vídeo de fundo que ocupa toda a tela. Ideal para apresentar seu portfólio, um produto, ou qualquer conteúdo visual impactante.
 
 ## 🚀 Funcionalidades
 
